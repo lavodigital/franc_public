@@ -1,5 +1,5 @@
   
-    ## Overall Messaging of LAVO
+    ## Overall Messaging of Lavo
     1. We focus on making clean energy more accessible
     2. We will change how people live with energy
     3. We will ensure people save on energy and preserve our planet
@@ -11,8 +11,8 @@
         1. Note currently installers have to do sales, admin, etc - in our model they just do the installs
 
 
-- **Who is LAVO?**
-    1. LR: LAVO is a renewable energy startup that’s making clean energy accessible for everyone by innovating across three areas: hardware, software and business models.   
+- **Who is Lavo?**
+    1. LR: Lavo is a renewable energy startup that’s making clean energy accessible for everyone by innovating across three areas: hardware, software and business models.   
    
 - **Tell me your best three brags in 30 seconds.**
     1. Okay, time me: 
@@ -32,7 +32,7 @@
         2. We provide solar at no upfront cost to consumers. 
         3. And we have an AI coach that rewards consumers when they run their appliances during off peak hours.
 
-- **(VIDEO) Show me how fast it is to kit out a home with LAVO solar?**
+- **(VIDEO) Show me how fast it is to kit out a home with Lavo solar?**
     1. I love this question! Check out this cool 30-second time lapse of our install process, where every component is lightweight and easy to install, giving us industry-leading install times.
 
 - **(VIDEO)** **Show me how cool your new solar kit for homes looks!**
