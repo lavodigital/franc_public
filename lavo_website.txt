@@ -1,0 +1,25 @@
+Long duration energy storage (LDES) solutions are essential in solving the energy storage problem and reaching net-zero targets. Renewable energy sources like wind and solar are not always reliable, and existing technologies can only store energy for a few hours. LDES solutions provide dispatchable and reliable renewable energy when it's needed, not just when it's generated.
+
+LAVO's patent-pending metal hydride technology, combined with a fuel cell and electrolyser, creates the integrated Hydrogen Energy Storage System (HESS), providing groundbreaking long duration storage. Green hydrogen LDES solutions, like LAVO's, will play a crucial role in accelerating the adoption of green hydrogen as an energy source.
+
+Augmented intelligence is used in LAVO's digital platform, LAVO FRANC, to respond to customer demands for accessible, safe, and scalable green fuel storage solutions. The platform enables customers to optimize the operation of LDES products by providing consistent, real-time information for effective and efficient energy generation, storage, and dispatch management.
+
+Hydrogen is the most abundant element in the universe and is found naturally on Earth in water and other organic compounds. It can be used as a fuel source to power engines, generate heat, or be converted into electricity through fuel cell technology. Unlike other fuels, hydrogen emits no carbon dioxide when burned.
+
+Green hydrogen is essential for achieving a net-zero future. It is a critical enabler of the energy transition, with predictions that a significant portion of the world's future energy needs will be met by green hydrogen. Green hydrogen is produced through electrolysis, using renewable energy sources like solar, wind, or hydroelectricity to split water into oxygen and hydrogen.
+
+LAVO uses its patented metal hydride technology for LDES. This technology allows for the safe storage of hydrogen at low pressure, providing a reliable and safer alternative to high compression or liquified storage. LAVO's LDES solutions have distinctive benefits, including safe storage, affordability, scalability, long duration, and sustainability.
+
+Existing battery technology alone is insufficient for long-duration storage, making LDES solutions critical in reaching net-zero targets. LAVO's green hydrogen LDES solution complements the adoption of green hydrogen as an energy source. It unlocks the potential of renewables and brings efficiency to energy management through an intelligent digital platform.
+
+LAVO's innovative product suite combines LDES with an intelligent digital platform, offering a full-service solution with short-long term storage capabilities. LAVO is also developing cost-effective solutions for industrial applications that leverage existing infrastructure, contributing to the generation of renewable energy for a greener future.
+
+LAVO's mission is to revolutionize the energy industry by providing accessible, affordable, and dependable clean energy solutions. With a focus on technological, economic, and infrastructural advancements, LAVO is constantly pushing the boundaries of what clean energy can achieve.
+
+As an Australian company, LAVO leverages the nation's energy and tech expertise to bring clean energy into homes and businesses. Through extensive research, product development, tech integration, and value chain management, LAVO designs innovative systems that benefit all stakeholders and unlock the full potential of renewable energy.
+
+LAVO Life is a comprehensive clean energy system tailored specifically for Australian homes and businesses. This system simplifies the adoption of clean energy by offering a best-in-market equipment and software suite on a subscription basis. By eliminating upfront costs and providing predictable and affordable energy solutions, LAVO Life bridges the energy efficiency gaps in the market.
+
+LAVO Hydrogen focuses on green hydrogen, a key component of clean energy storage. The Hydrogen Energy Storage System (HESS) developed by LAVO combines metal hydride storage technology, lithium-ion batteries, fuel cells, an electrolyser, and an innovative digital platform. This integration allows for long-duration energy storage capabilities, contributing to a more sustainable and secure energy system.
+
+Recognizing the importance of software in maximizing the potential of hardware, LAVO is developing LAVO Digital. By leveraging Australia's energy and tech expertise, LAVO Digital aims to optimize renewable energy resources. Research, product development, tech integration, and value chain management are the driving forces behind the development of this smart software, ensuring fairer outcomes for all stakeholders.
